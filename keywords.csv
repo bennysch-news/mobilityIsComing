@@ -6,23 +6,23 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blowups Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
-'autofreie Stadt Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'hocheffizenter Verbrenner Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
-'Kerosinsteuer Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Dienstwagenprivileg Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
+'Kerosinsteuer Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Kreuzschiffe Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
+'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,2,0.69
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'autofreie Stadt Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
