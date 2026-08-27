@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flugverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
-'LKWs Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
-'Dienstwagenprivileg Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
+'Dienstwagenprivileg Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.8
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.734225855
+'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,1,0.69
@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'hocheffizenter Verbrenner',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'LKWs Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.680150015
 'Kerosinsteuer Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
