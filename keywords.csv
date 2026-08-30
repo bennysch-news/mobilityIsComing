@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'LKW KLimawandel',de,Verkehrswende,#8888ff,#8888ff,2,0.680150015
-'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.6800000300000001
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,2,0.5960788864285713
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.5872500749999999
+'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5783000555000001
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
