@@ -10,22 +10,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,2,0.69
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'LKW KLimawandel',de,Verkehrswende,#8888ff,#8888ff,2,0.680150015
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,2,0.5960788864285713
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.5872500749999999
+'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5783000555000001
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
-'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.21445433913169962
+'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2144543391316996
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.1991319671621288
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1975183487503654
