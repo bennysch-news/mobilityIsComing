@@ -1,15 +1,20 @@
 ,phrase,label,sentiment,subjectivity,language,count
+picture alliance,picture alliance,ORG,0.0,0.0,de,1.9
+Initiative Soziale Wärmewende,Initiative Soziale Wärmewende,ORG,0.7368421052631579,0.0,de,1.9
 BUND,BUND,ORG,0.0,0.0,de,1.9
-Gebrauchtwagen,Gebrauchtwagen,ORG,0.0,0.0,de,1.9
 ADAC,ADAC,ORG,0.0,0.0,de,1.9
+Gebrauchtwagen,Gebrauchtwagen,ORG,0.0,0.0,de,1.9
 Mango-Koalition,Mango-Koalition,ORG,-1.0,0.0,de,1.0
-TTS-Player,TTS-Player,ORG,0.0,0.0,de,1.0
-picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
-Bonn.digital,Bonn.digital,ORG,0.0,0.0,de,1.0
-Cookies,Cookies,ORG,0.7,0.0,de,1.0
-Industri…,Industri…,ORG,0.0,0.0,de,1.0
-Merz-Regierung,Merz-Regierung,ORG,0.0,0.0,de,1.0
 Universität Duisburg-Essen,Universität Duisburg-Essen,ORG,0.0,0.0,de,1.0
-Auto Club…,Auto Club…,ORG,0.0,0.0,de,1.0
+sächsische Wohnungswirtschaft,sächsische Wohnungswirtschaft,ORG,0.0,0.0,de,1.0
+Wohnungswirtschaft,Wohnungswirtschaft,ORG,-0.7,0.0,de,1.0
 deutsche Verkehrswende re…,deutsche Verkehrswende re…,ORG,0.0,0.0,de,1.0
+Auto Club…,Auto Club…,ORG,0.0,0.0,de,1.0
+Merz-Regierung,Merz-Regierung,ORG,0.0,0.0,de,1.0
+TTS-Player,TTS-Player,ORG,0.0,0.0,de,1.0
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1.0
+Industri…,Industri…,ORG,0.0,0.0,de,1.0
+DW,DW,ORG,0.0,0.0,de,1.0
+Cookies,Cookies,ORG,0.7,0.0,de,1.0
+Bonn.digital,Bonn.digital,ORG,0.0,0.0,de,1.0
 SUP-Ausflug,SUP-Ausflug,ORG,0.0,0.0,de,1.0

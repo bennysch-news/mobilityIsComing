@@ -1,26 +1,33 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Euro 6-Autos,Euro 6-Autos,MISC,,,de,6.4
 Diesel-Fahrverbote,Diesel-Fahrverbote,MISC,,,de,6.4
+Euro 6-Autos,Euro 6-Autos,MISC,,,de,6.4
 Lkw-Fahrverbote,Lkw-Fahrverbote,MISC,,,de,5.5
-deutschen,deutschen,MISC,,,de,1.9
 Vielfahrenden,Vielfahrenden,MISC,,,de,1.9
-08.08.2026,08.08.2026,MISC,,,de,1.0
-SUP-Fahren,SUP-Fahren,MISC,,,de,1.0
-Euro 5,Euro 5,MISC,,,de,1.0
-Diesel-Fahrzeuge,Diesel-Fahrzeuge,MISC,,,de,1.0
-Niedrigwasserschiffe,Niedrigwasserschiffe,MISC,,,de,1.0
-Wa…,Wa…,MISC,,,de,1.0
+deutschen,deutschen,MISC,,,de,1.9
+“,“,MISC,,,de,1.9
 deutsche,deutsche,MISC,,,de,1.0
-Google,Google,MISC,,,de,1.0
+Wa…,Wa…,MISC,,,de,1.0
+Niedrigwasserschiffe,Niedrigwasserschiffe,MISC,,,de,1.0
 Tages,Tages,MISC,,,de,1.0
+Google,Google,MISC,,,de,1.0
+Wärmewende“,Wärmewende“,MISC,,,de,1.0
+Steigende CO2-Kosten,Steigende CO2-Kosten,MISC,,,de,1.0
+Diesel-Fahrzeuge,Diesel-Fahrzeuge,MISC,,,de,1.0
+Euro 5,Euro 5,MISC,,,de,1.0
+SUP-Fahren,SUP-Fahren,MISC,,,de,1.0
+Schienen-Maut,Schienen-Maut,MISC,,,de,1.0
+Wohnungswirtschaft“,Wohnungswirtschaft“,MISC,,,de,1.0
+Klimawandels …,Klimawandels …,MISC,,,de,1.0
 TAG IN,TAG IN,MISC,,,de,1.0
+08.08.2026,08.08.2026,MISC,,,de,1.0
+Temperatur-Rekorde,Temperatur-Rekorde,MISC,,,de,1.0
 Ersatztrans…,Ersatztrans…,MISC,,,de,1.0
 Binnenschifffahrt“,Binnenschifffahrt“,MISC,,,de,1.0
 Sonntags-Fahrverbote,Sonntags-Fahrverbote,MISC,,,de,1.0
 Frachtschifffahrt,Frachtschifffahrt,MISC,,,de,1.0
 Tagesspiegel,Tagesspiegel,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
-“,“,MISC,,,de,1.0
 Die Lage auf Deutschlands Flüssen,Die Lage auf Deutschlands Flüssen,MISC,,,de,1.0
+Rhein-Main-Gebiet,Rhein-Main-Gebiet,MISC,0.0,0.0,de,1.0
 Dem Münchner,Dem Münchner,MISC,,,de,1.0
-Schienen-Maut,Schienen-Maut,MISC,,,de,1.0
+Hessen Super E10,Hessen Super E10,MISC,,,de,1.0
