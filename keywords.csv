@@ -4,12 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.734225855
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,2,0.69
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,1,0.69
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,2,0.5960788864285713
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.5872500749999999
+'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'hocheffizenter Verbrenner',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5783000555000001
