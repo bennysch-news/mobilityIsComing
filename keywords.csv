@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.6800000900000001
-'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'LKW KLimawandel',de,Verkehrswende,#8888ff,#8888ff,3,0.6755816960258622
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5783000555000001
+'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.5783000300000001
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.4997626237499999
 'hocheffizenter Verbrenner',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
