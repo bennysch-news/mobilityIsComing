@@ -1,15 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.7481000600000001
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.734225855
-'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,2,0.69
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,2,0.69
-'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.69
+'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.6800000900000001
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.68
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,2,0.6244541699999999
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,2,0.5960788864285713
+'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.5868000299999999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5783000555000001
