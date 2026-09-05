@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.734225855
 'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,3,0.7060113095454544
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.69
-'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,1,0.69
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,1,0.69
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.68
 'LKW KLimawandel',de,Verkehrswende,#8888ff,#8888ff,3,0.6755816960258622
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
+'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.6324000899999999
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,2,0.6244541699999999
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5872500749999999
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.5868000299999999
