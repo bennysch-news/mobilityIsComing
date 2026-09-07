@@ -1,9 +1,19 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Steffen Bilger,Steffen Bilger,PER,-0.04587155963302751,0.04587155963302751,de,10.900000000000002
 Thomas Koch,Thomas Koch,PER,0.0,0.0,de,6.4
-Steffen Bilger,Steffen Bilger,PER,0.0,0.0,de,2.8
+Verkehrsminister Bilger,Verkehrsminister Bilger,PER,0.0,0.0,de,3.6999999999999997
 Georg Dunkel,Georg Dunkel,PER,-0.5526315789473684,0.2631578947368421,de,1.9
+Christian Laberer,Christian Laberer,PER,0.0,0.0,de,1.9
+Klimaforscher Mojib Latif,Klimaforscher Mojib Latif,PER,0.0,0.0,de,1.9
+Lars Klingbeil,Lars Klingbeil,PER,0.0,0.0,de,1.9
 Rudolf Juchelka,Rudolf Juchelka,PER,0.18421052631578946,0.2631578947368421,de,1.9
+Ferdinand Dudenhöffer,Ferdinand Dudenhöffer,PER,0.0,0.0,de,1.9
 Dieter Reiter,Dieter Reiter,PER,-1.0,0.0,de,1.0
+Christian Bernreiter,Christian Bernreiter,PER,0.0,0.0,de,1.0
 Vorstoß von Verkehrsminister,Vorstoß von Verkehrsminister,PER,0.0,0.0,de,1.0
-Verkehrsminister Bilger,Verkehrsminister Bilger,PER,0.0,0.0,de,1.0
+Jakob Mayr,Jakob Mayr,PER,0.0,0.0,de,1.0
+Heinz-Dieter Kimpel,Heinz-Dieter Kimpel,PER,0.0,0.0,de,1.0
+Droht Spritpreiszoff,Droht Spritpreiszoff,PER,0.0,0.0,de,1.0
+Mario Petzold,Mario Petzold,PER,0.7,0.0,de,1.0
+Oliver Krischer,Oliver Krischer,PER,0.0,0.0,de,1.0
 Felix Banaszak ,Felix Banaszak ,PER,-0.43333333333333335,0.0,de,1.0

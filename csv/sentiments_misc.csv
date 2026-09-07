@@ -1,33 +1,112 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Diesel-Fahrverbote,Diesel-Fahrverbote,MISC,,,de,6.4
+“,“,MISC,,,de,30.69999999999998
+Niedrigwasser“,Niedrigwasser“,MISC,,,de,12.700000000000003
+deutschen,deutschen,MISC,,,de,7.300000000000001
 Euro 6-Autos,Euro 6-Autos,MISC,,,de,6.4
+Diesel-Fahrverbote,Diesel-Fahrverbote,MISC,,,de,6.4
 Lkw-Fahrverbote,Lkw-Fahrverbote,MISC,,,de,5.5
+HUK-E-Barometer,HUK-E-Barometer,MISC,,,de,3.6999999999999997
+europäische,europäische,MISC,,,de,2.8
+Veronika Grimm,Veronika Grimm,MISC,,,de,2.8
+Binnenschifffahrt“,Binnenschifffahrt“,MISC,,,de,2.8
+Ökonomin Grimm,Ökonomin Grimm,MISC,,,de,2.8
+Amazon,Amazon,MISC,,,de,2.8
+deutsche,deutsche,MISC,,,de,2.8
 Vielfahrenden,Vielfahrenden,MISC,,,de,1.9
-deutschen,deutschen,MISC,,,de,1.9
-“,“,MISC,,,de,1.9
-deutsche,deutsche,MISC,,,de,1.0
-Wa…,Wa…,MISC,,,de,1.0
-Niedrigwasserschiffe,Niedrigwasserschiffe,MISC,,,de,1.0
-Tages,Tages,MISC,,,de,1.0
-Google,Google,MISC,,,de,1.0
-Wärmewende“,Wärmewende“,MISC,,,de,1.0
-Steigende CO2-Kosten,Steigende CO2-Kosten,MISC,,,de,1.0
-Diesel-Fahrzeuge,Diesel-Fahrzeuge,MISC,,,de,1.0
-Euro 5,Euro 5,MISC,,,de,1.0
-SUP-Fahren,SUP-Fahren,MISC,,,de,1.0
-Schienen-Maut,Schienen-Maut,MISC,,,de,1.0
+Rhein-Niedrigwasser,Rhein-Niedrigwasser,MISC,,,de,1.9
+Spritpreise“,Spritpreise“,MISC,,,de,1.9
+Google,Google,MISC,,,de,1.9
+Elektro-Lkw,Elektro-Lkw,MISC,,,de,1.9
+Sachsen,Sachsen,MISC,0.0,0.0,de,1.9
+IEA,IEA,MISC,,,de,1.9
+Niedrigwassers auf Flüssen,Niedrigwassers auf Flüssen,MISC,,,de,1.9
+Irankrieges,Irankrieges,MISC,,,de,1.9
+Niedrigwassers in Deutschland,Niedrigwassers in Deutschland,MISC,,,de,1.9
+Hamburger Senat,Hamburger Senat,MISC,,,de,1.9
+polnischen,polnischen,MISC,,,de,1.9
+CEE-Adapter,CEE-Adapter,MISC,,,de,1.9
+deutscher,deutscher,MISC,,,de,1.9
+Euro pro Jahr,Euro pro Jahr,MISC,,,de,1.9
+Rhein-Niedrigwassers,Rhein-Niedrigwassers,MISC,,,de,1.9
+Verbrennern,Verbrennern,MISC,,,de,1.9
+Rek…,Rek…,MISC,,,de,1.0
+p…,p…,MISC,,,de,1.0
+MöSt,MöSt,MISC,,,de,1.0
+Rheinpegel sinke z…,Rheinpegel sinke z…,MISC,,,de,1.0
+Angehörige“,Angehörige“,MISC,,,de,1.0
+Iran-Kriegs,Iran-Kriegs,MISC,,,de,1.0
+E-Busse,E-Busse,MISC,,,de,1.0
+Mein Großvater,Mein Großvater,MISC,,,de,1.0
+venezolanischen,venezolanischen,MISC,,,de,1.0
+Ber…,Ber…,MISC,,,de,1.0
+CEE-Stecker,CEE-Stecker,MISC,,,de,1.0
+dé 11 kW,dé 11 kW,MISC,,,de,1.0
+Mobile Wallbox,Mobile Wallbox,MISC,,,de,1.0
+Tiefpreis bei Amazon,Tiefpreis bei Amazon,MISC,,,de,1.0
+Jahr 2025,Jahr 2025,MISC,,,de,1.0
+De…,De…,MISC,,,de,1.0
+Deutschem,Deutschem,MISC,,,de,1.0
+DWD-Attributionsstudie,DWD-Attributionsstudie,MISC,,,de,1.0
+Irankrieg,Irankrieg,MISC,,,de,1.0
+Persischen Golf,Persischen Golf,MISC,,,de,1.0
+Der Hauptfaktor,Der Hauptfaktor,MISC,,,de,1.0
+ausge­wählten Regio­nalver­kehrs­stre­cken,ausge­wählten Regio­nalver­kehrs­stre­cken,MISC,,,de,1.0
+Deutsch­lands,Deutsch­lands,MISC,,,de,1.0
+europäischen,europäischen,MISC,,,de,1.0
+Hessen Super E10,Hessen Super E10,MISC,,,de,1.0
+E-Auto-Boom,E-Auto-Boom,MISC,,,de,1.0
 Wohnungswirtschaft“,Wohnungswirtschaft“,MISC,,,de,1.0
+Schienen-Maut,Schienen-Maut,MISC,,,de,1.0
+SUP-Fahren,SUP-Fahren,MISC,,,de,1.0
+Euro 5,Euro 5,MISC,,,de,1.0
+Diesel-Fahrzeuge,Diesel-Fahrzeuge,MISC,,,de,1.0
+Ohne den Klimawandel,Ohne den Klimawandel,MISC,,,de,1.0
+Steigende CO2-Kosten,Steigende CO2-Kosten,MISC,,,de,1.0
+Wärmewende“,Wärmewende“,MISC,,,de,1.0
+Tages,Tages,MISC,,,de,1.0
+Grundgesetz,Grundgesetz,MISC,,,de,1.0
+Mobile Wallbox 11 kW,Mobile Wallbox 11 kW,MISC,,,de,1.0
 Klimawandels …,Klimawandels …,MISC,,,de,1.0
-TAG IN,TAG IN,MISC,,,de,1.0
-08.08.2026,08.08.2026,MISC,,,de,1.0
+CDU-Parteipolitik,CDU-Parteipolitik,MISC,,,de,1.0
 Temperatur-Rekorde,Temperatur-Rekorde,MISC,,,de,1.0
 Ersatztrans…,Ersatztrans…,MISC,,,de,1.0
-Binnenschifffahrt“,Binnenschifffahrt“,MISC,,,de,1.0
+Wasserwege,Wasserwege,MISC,,,de,1.0
 Sonntags-Fahrverbote,Sonntags-Fahrverbote,MISC,,,de,1.0
 Frachtschifffahrt,Frachtschifffahrt,MISC,,,de,1.0
 Tagesspiegel,Tagesspiegel,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
 Die Lage auf Deutschlands Flüssen,Die Lage auf Deutschlands Flüssen,MISC,,,de,1.0
+Niedrigwassers auf deutschen Flüssen,Niedrigwassers auf deutschen Flüssen,MISC,,,de,1.0
+EUR,EUR,MISC,,,de,1.0
+Leasing-Hammer,Leasing-Hammer,MISC,,,de,1.0
+Dürre in Europa,Dürre in Europa,MISC,,,de,1.0
+Das Niedrigwasser stel,Das Niedrigwasser stel,MISC,,,de,1.0
+Spitzentreffen“,Spitzentreffen“,MISC,,,de,1.0
+Binnenschiffe,Binnenschiffe,MISC,,,de,1.0
+Verkehr“,Verkehr“,MISC,,,de,1.0
 Rhein-Main-Gebiet,Rhein-Main-Gebiet,MISC,0.0,0.0,de,1.0
 Dem Münchner,Dem Münchner,MISC,,,de,1.0
-Hessen Super E10,Hessen Super E10,MISC,,,de,1.0
+08.08.2026,08.08.2026,MISC,,,de,1.0
+Niedrigwassers,Niedrigwassers,MISC,,,de,1.0
+Wirtschaftsweise,Wirtschaftsweise,MISC,,,de,1.0
+Extremwetter“,Extremwetter“,MISC,,,de,1.0
+Klimawandels,Klimawandels,MISC,,,de,1.0
+Wirtschaftsweise Grimm,Wirtschaftsweise Grimm,MISC,,,de,1.0
+Transportprobleme“,Transportprobleme“,MISC,,,de,1.0
+Zorge“,Zorge“,MISC,,,de,1.0
+TAG IN,TAG IN,MISC,,,de,1.0
+Niedrigwasserschiffe,Niedrigwasserschiffe,MISC,,,de,1.0
+Wa…,Wa…,MISC,,,de,1.0
+Sonntagsfahrverbot“,Sonntagsfahrverbot“,MISC,,,de,1.0
+Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,1.0
+Rheinufer“,Rheinufer“,MISC,,,de,1.0
+Verk…,Verk…,MISC,,,de,1.0
+Spritpreis,Spritpreis,MISC,,,de,1.0
+Lkw-Fahrverbot“,Lkw-Fahrverbot“,MISC,,,de,1.0
+Elektroauto“,Elektroauto“,MISC,,,de,1.0
+Westeuropa so heiß,Westeuropa so heiß,MISC,,,de,1.0
+Deutschland unter der Dürre,Deutschland unter der Dürre,MISC,,,de,1.0
+Deutscher,Deutscher,MISC,,,de,1.0
+Verfassung +++ Lkw-Fahrverbot,Verfassung +++ Lkw-Fahrverbot,MISC,,,de,1.0
+Rufe nach Aufnahme von Hitzeschutz,Rufe nach Aufnahme von Hitzeschutz,MISC,,,de,1.0
+Tiefpreis,Tiefpreis,MISC,,,de,1.0
