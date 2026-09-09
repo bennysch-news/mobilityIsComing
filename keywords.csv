@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Verkehrswende,#8888ff,#8888ff,3,0.7060113095454544
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,3,0.6947701766219829
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.68
-'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.6695378467741935
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,2,0.6521212669354838
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.635885141
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.6324000899999999
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.5868000299999999
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,1,0.5865002999999999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
+'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.5737577997580644
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.510959783826923
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5066673834642856
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.4997626237499999
