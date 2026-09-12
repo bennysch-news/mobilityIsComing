@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.6892134615222549
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,2,0.6521212669354838
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.6462079422444748
-'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,2,0.6244541699999999
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,2,0.599633123181818
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5960751965000001
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,2,0.5955061437096774
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5780000000000001
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.5737577997580644
+'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.5478310706059212
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.54125244485
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.5384401664999999
