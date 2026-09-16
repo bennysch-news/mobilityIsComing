@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,3,0.6947701766219829
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.6917267783332729
 'Elektromobilität',de,Verkehrswende,#8888ff,#8888ff,2,0.6521212669354838
-'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.6124008133275104
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.5960751965000001
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,2,0.5955061437096774
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.5865815172939167
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.5501768409078035
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.5478310706059212
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.54125244485
+'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.5205406913283839
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.5143391147045453
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.510959783826923
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5066673834642856
