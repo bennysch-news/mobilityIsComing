@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.5501768409078035
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.5478310706059212
-'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.54125244485
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.5205406913283839
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.5143391147045453
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.510959783826923
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
+'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.46126469812250004
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.4252482751874999
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4182268121750001
