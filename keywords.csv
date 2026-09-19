@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,2,0.5905547401286855
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.5879677615832819
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,1,0.5865002999999999
-'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.5737577997580644
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.5501768409078035
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.5205406913283839
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
+'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,2,0.48769447479435474
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.465657220015033
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.4612646981225
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
