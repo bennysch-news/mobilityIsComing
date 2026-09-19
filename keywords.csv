@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,2,0.5905547401286855
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.5879677615832819
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,1,0.5865002999999999
-'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.5864999999999999
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,3,0.5737577997580644
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.5501768409078035
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4996126087499999
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.4991943496998292
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
+'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.465657220015033
