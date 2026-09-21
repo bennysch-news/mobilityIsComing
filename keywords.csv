@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.5205406913283839
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.5143391147045453
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5066673834642856
-'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4996126087499999
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.4991943496998292
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4367160562528845
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.4252482751874999
+'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4248207324374999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.4237462499999999
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4182268121750001
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.41809931784875
