@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,2,0.5905547401286855
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,1,0.5865002999999999
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
-'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.5501768409078035
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.5205406913283839
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.5143391147045453
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5066673834642856
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,2,0.4876944747943547
+'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.46810035977163295
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.465657220015033
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4367160562528845
