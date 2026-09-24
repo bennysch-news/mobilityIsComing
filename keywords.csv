@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,2,0.5955061437096774
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,1,0.5865002999999999
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
-'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.5205406913283839
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.507864037025
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5066673834642856
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.5019716191093826
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4681003597716329
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.465657220015033
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
+'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.4424595876291263
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.4379393124988635
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4367160562528845
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4248207324374999
