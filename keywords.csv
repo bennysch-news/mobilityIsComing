@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.4985249999999999
 'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,2,0.4876944747943547
-'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4681003597716329
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.465657220015033
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.4424595876291263
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4182268121750001
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.41809931784875
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.417605
+'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.39833535080588794
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.393275113404125
 'autofreie Stadt',de,Verkehrswende,#8888ff,#8888ff,1,0.3620610939093749
 'hocheffizenter Verbrenner',de,Verkehrswende,#8888ff,#8888ff,1,0.3061566656249999
@@ -33,5 +33,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.2110317039059913
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.1678910914378105
-'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.15978475570482414
+'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1597847557048241
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1550193343619651
