@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tempolimit',de,Verkehrswende,#8888ff,#8888ff,2,0.5955061437096774
 'öffentlicher Nahverkehr',de,Verkehrswende,#8888ff,#8888ff,1,0.5865002999999999
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
-'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.5066673834642856
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.5019716191093826
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.4991943496998292
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.4379393124988635
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4367160562528845
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.43288455147125
+'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4312673359446428
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4248207324374999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.4237462499999999
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4182268121750001
