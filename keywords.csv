@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spritpreise',de,Verkehrswende,#8888ff,#8888ff,3,0.5687404994999999
 'LKW Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.5019716191093826
 'Dienstwagenprivileg',de,Verkehrswende,#8888ff,#8888ff,1,0.4990800554999999
-'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,2,0.4876944747943547
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.465657220015033
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.4424595876291263
@@ -17,9 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.4237462499999999
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4182268121750001
 'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.41809931784875
+'Fahrverbote',de,Verkehrswende,#8888ff,#8888ff,1,0.4145406785752015
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.3722587528149518
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3610857015823329
-'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.36094544540812656
+'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.3609454454081265
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.3601843124999999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.3601843124999999
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.35496425
