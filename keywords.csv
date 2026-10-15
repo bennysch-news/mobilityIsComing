@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.4585742315249999
 'Deutschlandticket',de,Verkehrswende,#8888ff,#8888ff,3,0.4379393124988635
 'Radwege Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.43288455147125
-'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4312673359446428
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.4248207324374999
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.4237462499999999
 'Flugverkehr Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.4182268121750001
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.3958091170127781
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.3760906494847573
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.3722587528149518
+'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.36792737055294633
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3610857015823329
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.3609454454081265
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.3601843124999999
