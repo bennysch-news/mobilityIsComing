@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pendlerpauschale',de,Verkehrswende,#8888ff,#8888ff,1,0.3902381417962499
 'Mobilität Klimawandel',de,Verkehrswende,#8888ff,#8888ff,1,0.3722587528149518
 'Geo Engineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.3609454454081265
-'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.3553844201714374
 'e-Auto Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.3351839363935063
 'Klimakipppunkt',de,Tipping_Points,#ffff88,#ffff88,1,0.3196770520620436
 'eFuels',de,Verkehrswende,#8888ff,#8888ff,1,0.3072105196860937
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kreuzschiffe Klima',de,Verkehrswende,#8888ff,#8888ff,1,0.3061566656249999
 'Blowups Autobahn',de,Verkehrswende,#8888ff,#8888ff,1,0.3061566656249999
 'Kerosinsteuer',de,Verkehrswende,#8888ff,#8888ff,1,0.3061566656249999
+'Bahnverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.3020767571457218
 'Frachtverkehr Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.3017196124999999
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.288652376457254
 'e-Fuels',de,Verkehrswende,#8888ff,#8888ff,1,0.2690754099745037
